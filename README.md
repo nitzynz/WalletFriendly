@@ -43,3 +43,10 @@ Developed using Next.js and Bright Data's webunlocker, this e-commerce product s
 and many more, including code architecture and reusability
 
 ## <a name="images">🏞️ Images</a>
+<img width="1440" alt="Screenshot 2024-04-27 at 8 15 57 PM" src="https://github.com/nitzynz/WalletFriendly/assets/30779767/f4cb3d24-0750-4236-8e03-a5b87f1d0625">
+
+<img width="1440" alt="Screenshot 2024-04-27 at 7 52 02 PM" src="https://github.com/nitzynz/WalletFriendly/assets/30779767/850328e4-f8b0-4dd9-9fc5-ddebf5919e93">
+
+<img width="1440" alt="Screenshot 2024-04-27 at 7 51 46 PM" src="https://github.com/nitzynz/WalletFriendly/assets/30779767/e9608c24-1077-4679-83eb-8a324983e294">
+
+
